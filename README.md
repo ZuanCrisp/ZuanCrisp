@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I&#39;m ZuanCrisp</h1>
+<h1 align="center">Hello there 👋, I&#39;m ZuanCrisp</h1>
 
 <h3 align="center">Vibe Coders &amp; Open Source Collector&#39;s</h3>
 
