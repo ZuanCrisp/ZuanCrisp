@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I&#39;m ZuanCrisp</h1>
+<h1 align="center">Hi 👋, I&#39;m ZuanCrisp</h1>
 
 <h3 align="center">Vibe Coders &amp; Open Source Collector&#39;s</h3>
 
@@ -7,8 +7,6 @@
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
-
-<h4 align="center">Languages</h4>
 
 <p align="center">
   <img src="https://badge.hokacristian.com/api/badge/tech/javascript" alt="JavaScript" />
@@ -30,11 +28,6 @@
   <img src="https://badge.hokacristian.com/api/badge/tech/lua" alt="Lua" />
   <img src="https://badge.hokacristian.com/api/badge/tech/perl" alt="Perl" />
   <img src="https://badge.hokacristian.com/api/badge/tech/scala" alt="Scala" />
-</p>
-
-<h4 align="center">Frontend &amp; Mobile</h4>
-
-<p align="center">
   <img src="https://badge.hokacristian.com/api/badge/tech/flutter" alt="Flutter" />
   <img src="https://badge.hokacristian.com/api/badge/tech/react" alt="React" />
   <img src="https://badge.hokacristian.com/api/badge/tech/nextjs" alt="Next.js" />
@@ -46,11 +39,6 @@
   <img src="https://badge.hokacristian.com/api/badge/tech/reactnative" alt="React Native" />
   <img src="https://badge.hokacristian.com/api/badge/tech/vite" alt="Vite" />
   <img src="https://badge.hokacristian.com/api/badge/tech/webpack" alt="Webpack" />
-</p>
-
-<h4 align="center">Backend &amp; Servers</h4>
-
-<p align="center">
   <img src="https://badge.hokacristian.com/api/badge/tech/nodejs" alt="Node.js" />
   <img src="https://badge.hokacristian.com/api/badge/tech/express" alt="Express" />
   <img src="https://badge.hokacristian.com/api/badge/tech/fastapi" alt="FastAPI" />
@@ -67,21 +55,11 @@
   <img src="https://badge.hokacristian.com/api/badge/tech/deno" alt="Deno" />
   <img src="https://badge.hokacristian.com/api/badge/tech/nginx" alt="Nginx" />
   <img src="https://badge.hokacristian.com/api/badge/tech/apache" alt="Apache" />
-</p>
-
-<h4 align="center">Databases &amp; Cache</h4>
-
-<p align="center">
   <img src="https://badge.hokacristian.com/api/badge/tech/postgresql" alt="PostgreSQL" />
   <img src="https://badge.hokacristian.com/api/badge/tech/mysql" alt="MySQL" />
   <img src="https://badge.hokacristian.com/api/badge/tech/mongodb" alt="MongoDB" />
   <img src="https://badge.hokacristian.com/api/badge/tech/supabase" alt="Supabase" />
   <img src="https://badge.hokacristian.com/api/badge/tech/sqlserver" alt="SQL Server" />
-</p>
-
-<h4 align="center">DevOps, Cloud &amp; Tools</h4>
-
-<p align="center">
   <img src="https://badge.hokacristian.com/api/badge/tech/docker" alt="Docker" />
   <img src="https://badge.hokacristian.com/api/badge/tech/linux" alt="Linux" />
   <img src="https://badge.hokacristian.com/api/badge/tech/ubuntu" alt="Ubuntu" />
@@ -99,20 +77,10 @@
   <img src="https://badge.hokacristian.com/api/badge/tech/yarn" alt="Yarn" />
   <img src="https://badge.hokacristian.com/api/badge/tech/vscode" alt="VS Code" />
   <img src="https://badge.hokacristian.com/api/badge/tech/vim" alt="Vim" />
-</p>
-
-<h4 align="center">Design</h4>
-
-<p align="center">
   <img src="https://badge.hokacristian.com/api/badge/tech/figma" alt="Figma" />
   <img src="https://badge.hokacristian.com/api/badge/tech/blender" alt="Blender" />
   <img src="https://badge.hokacristian.com/api/badge/tech/premiere" alt="Premiere Pro" />
   <img src="https://badge.hokacristian.com/api/badge/tech/canva" alt="Canva" />
-</p>
-
-<h4 align="center">AI &amp; ML</h4>
-
-<p align="center">
   <img src="https://badge.hokacristian.com/api/badge/tech/pytorch" alt="PyTorch" />
   <img src="https://badge.hokacristian.com/api/badge/tech/tensorflow" alt="TensorFlow" />
   <img src="https://badge.hokacristian.com/api/badge/tech/keras" alt="Keras" />
@@ -137,4 +105,8 @@
 
 <p align="center">
   <a href="https://github.com/ZuanCrisp"><img src="https://badge.hokacristian.com/api/github/langs?username=ZuanCrisp&amp;theme=tokyonight" alt="Top Languages card" /></a>
+</p>
+
+<p align="center">
+  <img src="https://badge.hokacristian.com/api/quote?seed=60380&amp;theme=tokyonight" alt="Dev Quote card" />
 </p>
